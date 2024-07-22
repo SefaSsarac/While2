@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\Whileson\Whileson\bin\Debug\net8.0\Whileson.exe
+D:\Yazılım\Repository\Whileson\Whileson\bin\Debug\net8.0\Whileson.deps.json
+D:\Yazılım\Repository\Whileson\Whileson\bin\Debug\net8.0\Whileson.runtimeconfig.json
+D:\Yazılım\Repository\Whileson\Whileson\bin\Debug\net8.0\Whileson.dll
+D:\Yazılım\Repository\Whileson\Whileson\bin\Debug\net8.0\Whileson.pdb
+D:\Yazılım\Repository\Whileson\Whileson\obj\Debug\net8.0\Whileson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\Whileson\Whileson\obj\Debug\net8.0\Whileson.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\Whileson\Whileson\obj\Debug\net8.0\Whileson.AssemblyInfo.cs
+D:\Yazılım\Repository\Whileson\Whileson\obj\Debug\net8.0\Whileson.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\Whileson\Whileson\obj\Debug\net8.0\Whileson.dll
+D:\Yazılım\Repository\Whileson\Whileson\obj\Debug\net8.0\refint\Whileson.dll
+D:\Yazılım\Repository\Whileson\Whileson\obj\Debug\net8.0\Whileson.pdb
+D:\Yazılım\Repository\Whileson\Whileson\obj\Debug\net8.0\Whileson.genruntimeconfig.cache
+D:\Yazılım\Repository\Whileson\Whileson\obj\Debug\net8.0\ref\Whileson.dll
